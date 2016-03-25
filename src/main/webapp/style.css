@@ -1,0 +1,2 @@
+
+table.underline {border-spacing:0;width:340px;} table.underline td:first-child{width:100px;padding-left:7px;} table.underline td:last-child{width:240px;} table.underline td {border-bottom:1px solid #ddd;height:20px;} table.underline tr:last-child td {border-bottom:none;}
